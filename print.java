@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.prin("midc eduspark cloud b4");
+        System.out.println("midc eduspark cloud b4");
     }
 }
